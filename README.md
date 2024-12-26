@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheiklf
-- 👀 I’m interested in domotic
-- 🌱 I’m currently learning to code esp32
+- 👀 I’m interested in domotic and LLM
+- 🌱 I’m currently learning to code python
 
 <!---
 Cheiklf/Cheiklf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
